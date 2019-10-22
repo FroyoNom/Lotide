@@ -1,6 +1,6 @@
 {
   "name": "@froyonom/lotide",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A mini clone of the Lodash library",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FroyoNom/lotide.git"
+    "url": "git+https://github.com/FroyoNom/Lotide.git"
   },
   "author": "@FroyoNom",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FroyoNom/lotide/issues"
+    "url": "https://github.com/FroyoNom/Lotide/issues"
   },
-  "homepage": "https://github.com/FroyoNom/lotide#readme",
+  "homepage": "https://github.com/FroyoNom/Lotide#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "chalk": "^2.4.2",
